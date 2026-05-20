@@ -1,0 +1,2 @@
+# PDF files - store locally, not in git
+papers/*.pdf
