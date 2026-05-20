@@ -26,7 +26,7 @@ These rules apply to **every** response, including overview pages: cite only pap
 ## Repository Structure
 
 ```
-llm-siki/
+llm-wiki/
 ├── CLAUDE.md               # This file
 ├── index.md                # Page catalog
 ├── papers/                 # Original PDFs (cp, never symlink)
@@ -105,7 +105,7 @@ authors: Author List
 year: YYYY
 doi: DOI
 category: genomics
-pdf_path: C:/Users/User/Desktop/llm-siki/papers/{stem}.pdf
+pdf_path: C:/Users/User/Desktop/llm-wiki/papers/{stem}.pdf
 pdf_filename: {stem}.pdf
 source_collection: external
 ---
@@ -130,7 +130,7 @@ year: YYYY
 doi: DOI
 source: {stem}.md
 category: genomics
-pdf_path: C:/Users/User/Desktop/llm-siki/papers/{stem}.pdf
+pdf_path: C:/Users/User/Desktop/llm-wiki/papers/{stem}.pdf
 pdf_filename: {stem}.pdf
 source_collection: external
 tags: []
@@ -166,7 +166,7 @@ Each conversation should produce 5–15 new or updated wiki pages.
 
 ## Browsing with Obsidian
 
-For visual navigation, install [Obsidian](https://obsidian.md/) (free) and open the `llm-siki` folder as a Vault. Native support for `[[wikilinks]]`, graph view, and full-text search. Obsidian only reads files — it does not interfere with the agent's edits.
+For visual navigation, install [Obsidian](https://obsidian.md/) (free) and open the `llm-wiki` folder as a Vault. Native support for `[[wikilinks]]`, graph view, and full-text search. Obsidian only reads files — it does not interfere with the agent's edits.
 
 ---
 
