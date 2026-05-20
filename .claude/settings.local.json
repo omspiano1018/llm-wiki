@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:gist.github.com)",
+      "Bash(gh gist *)",
+      "WebFetch(domain:gist.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "PowerShell(Invoke-WebRequest -Uri \"https://gist.githubusercontent.com/joonan30/cbce305684d079dbe9a3fbaefe4e3959/raw/3f5eab8abfe6703772f3ec114592f7d73b927e35/CLAUDE.md.template\" -UseBasicParsing)",
+      "Bash(pip3 --version)",
+      "Bash(pip --version)",
+      "Bash(pip3 install *)",
+      "Bash(pip install *)",
+      "Bash(python3 -c \"import pypdf; print\\('ok'\\)\")",
+      "Bash(python3 -m pip install pypdf)",
+      "Bash(dir \"C:\\\\Users\\\\User\\\\Desktop\\\\llm-wiki\")",
+      "Bash(python3 -c ' *)",
+      "PowerShell(pip install pypdf 2>&1)",
+      "Bash(py -m pip --version)",
+      "Bash(ls \"/mnt/c/Users/User/Desktop/논문/RNA stabilizer/\")",
+      "PowerShell(Get-ChildItem -LiteralPath \"C:\\\\Users\\\\User\\\\Desktop\\\\논문\\\\RNA stabilizer\" | ForEach-Object { Write-Host $_.FullName })",
+      "Bash(gh auth *)",
+      "PowerShell(gh --version 2>&1)"
+    ]
+  }
+}
