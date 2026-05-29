@@ -1,2 +1,5 @@
 # PDF files - store locally, not in git
 papers/*.pdf
+
+# Temporary extraction files
+tmp/

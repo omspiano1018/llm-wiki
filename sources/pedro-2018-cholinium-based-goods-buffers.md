@@ -28,7 +28,12 @@ Self-buffering cholinium Good's buffer ionic liquids (GB-ILs) at 20–50% (w/w) 
 ## 3. Methodology and Architecture
 
 ### RNA model
-Recombinant *Escherichia coli* small RNA (sRNA) fraction containing a microRNA precursor (**pre-miR-29**), produced by in vivo transcription in bacteria; purified by chromatography.
+Recombinant *Escherichia coli* DH5α / plasmid **pBHSR1-RM** sRNA fraction containing **3 RNA species**, co-produced in vivo and isolated together by acid guanidinium thiocyanate-phenol-chloroform extraction:
+1. **tRNA** (transfer RNA) — housekeeping sRNA
+2. **pre-miR-29b** (human microRNA precursor) — biopharmaceutical target
+3. **6S RNA** — bacterial RNA polymerase regulatory ncRNA
+
+For **MD simulations**, a separate 20-mer linear single-stranded RNA (sequence: AGCGAACGCAUCUCGAGUUC) was used as a computational model.
 
 ### IL synthesis
 Neutralization of cholinium hydroxide with Good's buffer acids:

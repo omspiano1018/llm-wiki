@@ -23,7 +23,12 @@ Pedro et al. (2018) demonstrate that aqueous solutions of self-buffering cholini
 - Complete RNA recovery and IL recyclability demonstrated
 
 ## Methodology and Architecture
-**RNA model**: Recombinant *E. coli* sRNA fraction containing pre-miR-29, produced in vivo and purified by chromatography. This represents biopharmaceutically relevant RNA (not synthetic oligos).
+**RNA model**: Recombinant *E. coli* DH5α / plasmid pBHSR1-RM sRNA fraction — **3종 RNA**를 공동 생산·정제:
+1. **tRNA** — transfer RNA (세포 내 주요 sRNA)
+2. **pre-miR-29b** — 인간 miRNA 전구체 (biopharmaceutical 타겟)
+3. **6S RNA** — RNA 폴리머라제 조절 ncRNA
+(산 guanidinium thiocyanate-phenol-chloroform 추출법으로 분리)
+MD 시뮬레이션용 별도 모델: 20mer ssRNA (AGCGAACGCAUCUCGAGUUC)
 
 **GB-IL panel**: Four cholinium-based ILs synthesized by neutralizing choline hydroxide with Good's buffer acids:
 - Cholinium MES, Cholinium TES, Cholinium HEPES, Cholinium Tricine
