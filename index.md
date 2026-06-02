@@ -52,9 +52,12 @@ Format: `- [[category/stem]] — one-line description (year)`
 
 ## computational
 <!-- algorithms, bioinformatics tools, statistical methods, ML for biology -->
+- [[computational/taha-2015-novel-biocompatible-and-self-buffering-ionic]] — Founding work on self-buffering cholinium Good's buffer ILs (MES/TES/HEPES/Tricine/CHES); with PPG 400 form biocompatible ABS extracting IgY from egg yolk at 79–94% single-step (2015)
 - [[computational/pedro-2018-cholinium-based-goods-buffers]] — Cholinium Good's buffer ILs raise RNA Tm +14°C, stable 30 days at 25°C without freezing (2018)
+- [[computational/velho-2025-synthesis-and-characterization-of-the]] — Synthesis + full thermophysical characterization (density, viscosity, conductivity, ionicity/Walden plot) of choline–amino acid ILs [Ch][Ala], [Ch]₂[Glut], [Ch][Threo] and their aqueous solutions (2025)
 - [[computational/de-silva-2026-a-biocompatible-and-recyclable]] — Choline glutamate IL stabilizes plant RNA at 80–90°C, recyclable ≥5 cycles (2026)
 - [[computational/yu-2026-ionic-liquids-as-alternative]] — Choline IL replaces PEG in mRNA-LNPs; 85% macrophage transfection via inverse mesophase (2026)
+- [[computational/tanaka-2026-lipid-based-ionic-liquids-enable]] — Cationic ethylated phospholipids (DMPC/DPPC/DSPC) + linoleate = lipid-based ionic liquids that complex mRNA; [EDMPC][Lin] (myristoyl) gives highest HeLa transfection — the lipid itself is the IL (2026)
 - [[computational/verissimo-2026-ionic-liquids-deep-eutectic]] — Critical perspective on ILs and DESs as stabilization/delivery platforms for siRNA, mRNA, and ASO biopharmaceuticals; SWOT analysis; nucleic acid therapeutics market USD 6.94B (2026)
 - [[computational/lou-2014-review-room-temperature-storage]] — Review comparing room-temperature biospecimen storage (FFPE, FTA cards, chemical matrices, lyophilization, formalin-free fixatives) for anatomic pathology labs (2014)
 - [[computational/xian-2023-nanobiotechnology-enabled-mrna]] — Review of nanobiotechnology strategies (chemical modifications, nanostructures, LNP encapsulation) for mRNA stabilization and shelf-life extension (2023)
@@ -70,3 +73,4 @@ Format: `- [[category/stem]] — one-line description (year)`
 
 ## overviews
 <!-- synthesis pages spanning multiple papers -->
+- [[overviews/ionic-liquid-rna-storage-state-and-hydrolysis]] — How RNA is stored in ionic liquids: dissolved/natively-folded in aqueous IL, and why water hydrolysis is suppressed (low water activity, +Tm, neutral pH, nuclease inactivation) — with the acidic-IL counter-example (pedro-2018, de-silva-2026)

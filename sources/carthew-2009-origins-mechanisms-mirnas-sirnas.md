@@ -4,7 +4,7 @@ authors: Richard W. Carthew, Erik J. Sontheimer
 year: 2009
 doi: 10.1016/j.cell.2009.01.035
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Origins-and-Mechanisms-of-miRNAs-and-siRNAs_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Origins-and-Mechanisms-of-miRNAs-and-siRNAs_cell.pdf
 pdf_filename: Origins-and-Mechanisms-of-miRNAs-and-siRNAs_cell.pdf
 source_collection: external
 ---

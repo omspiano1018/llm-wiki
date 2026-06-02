@@ -5,7 +5,7 @@ year: 2019
 doi: 10.1016/j.prevetmed.2019.104772
 source: cardona-ospina-2019-systematic-review-fta-cards.md
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/A systematic review of FTA cards as a tool for viral RNA preservation in fieldwork Are they safe and effective.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/A systematic review of FTA cards as a tool for viral RNA preservation in fieldwork Are they safe and effective.pdf
 pdf_filename: A systematic review of FTA cards as a tool for viral RNA preservation in fieldwork Are they safe and effective.pdf
 source_collection: external
 tags: [FTA cards, viral RNA, RNA preservation, fieldwork, systematic review, biosafety, RT-PCR, room temperature storage]

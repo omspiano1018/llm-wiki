@@ -5,7 +5,7 @@ year: 2025
 doi: 10.1101/2025.07.23.665770
 source: alfuhaid-2025-nades-biocompatible-media-thermally.md
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/NADES as Biocompatible Media for Thermally Stable RNA Molecules.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/NADES as Biocompatible Media for Thermally Stable RNA Molecules.pdf
 pdf_filename: NADES as Biocompatible Media for Thermally Stable RNA Molecules.pdf
 source_collection: external
 tags: [rna-storage, nades, deep-eutectic-solvents, mrna-stability, cold-chain-free, choline-chloride, biocompatibility]

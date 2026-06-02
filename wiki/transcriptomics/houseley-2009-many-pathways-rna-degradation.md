@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.01.019
 source: houseley-2009-many-pathways-rna-degradation.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/The-Many-Pathways-of-RNA-Degradation_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/The-Many-Pathways-of-RNA-Degradation_cell.pdf
 pdf_filename: The-Many-Pathways-of-RNA-Degradation_cell.pdf
 source_collection: external
 tags: [RNA degradation, exosome, TRAMP, Xrn1, decapping, deadenylation, NMD, RNA surveillance, RNA quality control, miRNA, siRNA, Ccr4-NOT]

@@ -4,7 +4,7 @@ authors: Lamya Al Fuhaid, Shahryar Khattak, Arwa Alghuneim, Imed Gallouzi, Young
 year: 2025
 doi: 10.1101/2025.07.23.665770
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/NADES as Biocompatible Media for Thermally Stable RNA Molecules.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/NADES as Biocompatible Media for Thermally Stable RNA Molecules.pdf
 pdf_filename: NADES as Biocompatible Media for Thermally Stable RNA Molecules.pdf
 source_collection: external
 ---

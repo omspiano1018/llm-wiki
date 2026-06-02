@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.02.004
 source: grewal-2009-transcriptional-scaffolds-heterochromatin.md
 category: epigenomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Transcriptional-Scaffolds-for-Heterochromatin-Asse.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Transcriptional-Scaffolds-for-Heterochromatin-Asse.pdf
 pdf_filename: Transcriptional-Scaffolds-for-Heterochromatin-Asse.pdf
 source_collection: external
 tags: [heterochromatin, RNAi, siRNA, HP1, H3K9 methylation, fission yeast, RITS, RDRC, Xist, imprinting, ncRNA, epigenomics, transcriptional silencing]

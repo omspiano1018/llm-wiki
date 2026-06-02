@@ -4,7 +4,7 @@ authors: José Almeida Cruz, Eric Westhof
 year: 2009
 doi: 10.1016/j.cell.2009.02.003
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/The-Dynamic-Landscapes-of-RNA-Architecture_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/The-Dynamic-Landscapes-of-RNA-Architecture_cell.pdf
 pdf_filename: The-Dynamic-Landscapes-of-RNA-Architecture_cell.pdf
 source_collection: external
 ---

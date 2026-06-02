@@ -5,7 +5,7 @@ year: 2026
 doi: 10.1016/j.aca.2026.345501
 source: de-silva-2026-a-biocompatible-and-recyclable.md
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/de-silva-2026-a-biocompatible-and-recyclable.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/de-silva-2026-a-biocompatible-and-recyclable.pdf
 pdf_filename: de-silva-2026-a-biocompatible-and-recyclable.pdf
 source_collection: external
 tags: [ionic-liquid, RNA-stabilization, plant-RNA, choline-glutamate, RNA-preservation, recyclability]

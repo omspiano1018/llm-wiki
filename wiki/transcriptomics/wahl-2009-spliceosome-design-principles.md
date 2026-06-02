@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.02.009
 source: wahl-2009-spliceosome-design-principles.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/The-Spliceosome--Design-Principles-of-a-Dynamic-RN.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/The-Spliceosome--Design-Principles-of-a-Dynamic-RN.pdf
 pdf_filename: The-Spliceosome--Design-Principles-of-a-Dynamic-RN.pdf
 source_collection: external
 tags: [spliceosome, pre-mRNA splicing, snRNP, snRNA, alternative splicing, DExH helicase, RNP, Sm proteins, U6 snRNA, catalytic RNA, group II intron]

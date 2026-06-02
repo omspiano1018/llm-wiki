@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.02.003
 source: westhof-2009-dynamic-landscapes-rna-architecture.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/The-Dynamic-Landscapes-of-RNA-Architecture_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/The-Dynamic-Landscapes-of-RNA-Architecture_cell.pdf
 pdf_filename: The-Dynamic-Landscapes-of-RNA-Architecture_cell.pdf
 source_collection: external
 tags: [RNA structure, RNA folding, RNA architecture, riboswitch, A-minor, helical junction, smFRET, hydroxyl radical footprinting, ribozyme, RNP assembly]

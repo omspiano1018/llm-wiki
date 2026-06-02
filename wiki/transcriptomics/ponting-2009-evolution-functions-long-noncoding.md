@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.02.006
 source: ponting-2009-evolution-functions-long-noncoding.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Evolution-and-Functions-of-Long-Noncoding-RNAs_cel.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Evolution-and-Functions-of-Long-Noncoding-RNAs_cel.pdf
 pdf_filename: Evolution-and-Functions-of-Long-Noncoding-RNAs_cel.pdf
 source_collection: external
 tags: [lncRNA, noncoding-RNA, pervasive-transcription, Xist, imprinting, Polycomb, epigenetics]

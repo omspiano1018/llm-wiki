@@ -5,7 +5,7 @@ year: 2026
 doi: 10.1098/rsta.2024.0310
 source: yu-2026-ionic-liquids-as-alternative.md
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/yu-2026-ionic-liquids-as-alternative.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/yu-2026-ionic-liquids-as-alternative.pdf
 pdf_filename: yu-2026-ionic-liquids-as-alternative.pdf
 source_collection: external
 tags: [ionic-liquid, LNP, mRNA-delivery, PEG-alternative, lipid-nanoparticle, endosomal-escape, SAXS, macrophage, choline]

@@ -4,7 +4,7 @@ authors: Jaime A. Cardona-Ospina, Manuel F. Villalba-Miranda, Leidy A. Palechor-
 year: 2019
 doi: 10.1016/j.prevetmed.2019.104772
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/A systematic review of FTA cards as a tool for viral RNA preservation in fieldwork Are they safe and effective.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/A systematic review of FTA cards as a tool for viral RNA preservation in fieldwork Are they safe and effective.pdf
 pdf_filename: A systematic review of FTA cards as a tool for viral RNA preservation in fieldwork Are they safe and effective.pdf
 source_collection: external
 ---

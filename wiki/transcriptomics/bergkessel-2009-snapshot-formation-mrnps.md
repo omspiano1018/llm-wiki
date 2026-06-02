@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.01.047
 source: bergkessel-2009-snapshot-formation-mrnps.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/SnapShot--Formation-of-mRNPs_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/SnapShot--Formation-of-mRNPs_cell.pdf
 pdf_filename: SnapShot--Formation-of-mRNPs_cell.pdf
 source_collection: external
 tags: [mRNP, splicing, capping, polyadenylation, nuclear export, spliceosome]

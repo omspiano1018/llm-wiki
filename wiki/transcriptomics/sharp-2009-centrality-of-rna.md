@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.02.007
 source: sharp-2009-centrality-of-rna.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/The-Centrality-of-RNA_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/The-Centrality-of-RNA_cell.pdf
 pdf_filename: The-Centrality-of-RNA_cell.pdf
 source_collection: external
 tags: [RNA, gene regulation, alternative splicing, miRNA, RNAi, RNA world, ribosome, transcription factor, history]

@@ -5,7 +5,7 @@ year: 2024
 doi: 10.3390/molecules29245978
 source: kornienko-2024-rna-stability-review-structural.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/RNA stability A review of the Role of Structural Features and Environmental Conditions.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/RNA stability A review of the Role of Structural Features and Environmental Conditions.pdf
 pdf_filename: RNA stability A review of the Role of Structural Features and Environmental Conditions.pdf
 source_collection: external
 tags: [RNA stability, degradation, hydrolysis, biobanking, mRNA, chemical modification, storage]

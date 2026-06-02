@@ -4,7 +4,7 @@ authors: Shashini De Silva, Cecilia Cagliero, Morgan R. Gostel, Gabriel Johnson,
 year: 2026
 doi: 10.1016/j.aca.2026.345501
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/de-silva-2026-a-biocompatible-and-recyclable.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/de-silva-2026-a-biocompatible-and-recyclable.pdf
 pdf_filename: de-silva-2026-a-biocompatible-and-recyclable.pdf
 source_collection: external
 ---

@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.01.046
 source: voinnet-2009-origin-biogenesis-activity-plant.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Origin,-Biogenesis,-and-Activity-of-Plant-MicroRNA.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Origin,-Biogenesis,-and-Activity-of-Plant-MicroRNA.pdf
 pdf_filename: Origin,-Biogenesis,-and-Activity-of-Plant-MicroRNA.pdf
 source_collection: external
 tags: [miRNA, plant, RNA-silencing, Arabidopsis, DCL1, RISC, biogenesis]

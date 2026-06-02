@@ -5,7 +5,7 @@ year: 2019
 doi: 10.1371/journal.pone.0222211
 source: greene-2019-scope-and-efficacy-of.md
 category: cell-biology
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/greene-2019-scope-and-efficacy-of.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/greene-2019-scope-and-efficacy-of.pdf
 pdf_filename: greene-2019-scope-and-efficacy-of.pdf
 source_collection: external
 tags: [CAGE, antiseptic, biofilm, ESKAPE, antibacterial]

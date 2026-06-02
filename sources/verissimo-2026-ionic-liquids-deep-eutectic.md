@@ -4,7 +4,7 @@ authors: Nathalia Vieira Porphirio Veríssimo, Mara G. Freire, Jorge F.B. Pereir
 year: 2026
 doi: 10.1016/j.jil.2026.100207
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Ionic liquids and deep eutectic solvents Recent advances in the stabilization and functionalization of nucleic acid biopharmaceuticals.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Ionic liquids and deep eutectic solvents Recent advances in the stabilization and functionalization of nucleic acid biopharmaceuticals.pdf
 pdf_filename: Ionic liquids and deep eutectic solvents Recent advances in the stabilization and functionalization of nucleic acid biopharmaceuticals.pdf
 source_collection: external
 ---

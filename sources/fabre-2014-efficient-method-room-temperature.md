@@ -4,7 +4,7 @@ authors: Anne-Lise Fabre, Marthe Colotte, Aurelie Luis, Sophie Tuffet, Jacques B
 year: 2014
 doi: 10.1038/ejhg.2013.145
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/An efficient method for long-term room temperature storage of RNA.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/An efficient method for long-term room temperature storage of RNA.pdf
 pdf_filename: An efficient method for long-term room temperature storage of RNA.pdf
 source_collection: external
 ---

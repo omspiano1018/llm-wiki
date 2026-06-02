@@ -4,7 +4,7 @@ authors: Bryan R. Cullen
 year: 2009
 doi: 10.1016/j.cell.2009.01.048
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Viral-RNAs--Lessons-from-the-Enemy_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Viral-RNAs--Lessons-from-the-Enemy_cell.pdf
 pdf_filename: Viral-RNAs--Lessons-from-the-Enemy_cell.pdf
 source_collection: external
 ---

@@ -5,7 +5,7 @@ year: 2024
 doi: 10.1016/j.jconrel.2024.10.034
 source: mitragotri-2024-choline-geranate-cage-multifaceted.md
 category: cell-biology
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/mitragotri-2024-choline-geranate-cage-multifaceted.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/mitragotri-2024-choline-geranate-cage-multifaceted.pdf
 pdf_filename: mitragotri-2024-choline-geranate-cage-multifaceted.pdf
 source_collection: external
 tags: [CAGE, ionic-liquid, drug-delivery, transdermal, clinical-trial]

@@ -4,7 +4,7 @@ authors: Hugh P. Cam, Ee Sin Chen, Shiv I.S. Grewal
 year: 2009
 doi: 10.1016/j.cell.2009.02.004
 category: epigenomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Transcriptional-Scaffolds-for-Heterochromatin-Asse.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Transcriptional-Scaffolds-for-Heterochromatin-Asse.pdf
 pdf_filename: Transcriptional-Scaffolds-for-Heterochromatin-Asse.pdf
 source_collection: external
 ---

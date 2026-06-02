@@ -4,7 +4,7 @@ authors: Thomas A. Cooper, Lili Wan, Gideon Dreyfuss
 year: 2009
 doi: 10.1016/j.cell.2009.02.011
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/RNA-and-Disease_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/RNA-and-Disease_cell.pdf
 pdf_filename: RNA-and-Disease_cell.pdf
 source_collection: external
 ---

@@ -5,7 +5,7 @@ year: 2020
 doi: 10.1002/btm2.10191
 source: ko-2020-clinical-translation-of-choline.md
 category: cell-biology
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/ko-2020-clinical-translation-of-choline.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/ko-2020-clinical-translation-of-choline.pdf
 pdf_filename: ko-2020-clinical-translation-of-choline.pdf
 source_collection: external
 tags: [CAGE, clinical-translation, rosacea, dermatology, ionic-liquid]

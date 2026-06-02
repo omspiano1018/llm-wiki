@@ -5,7 +5,7 @@ year: 2014
 doi: 10.1038/ejhg.2013.145
 source: fabre-2014-efficient-method-room-temperature.md
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/An efficient method for long-term room temperature storage of RNA.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/An efficient method for long-term room temperature storage of RNA.pdf
 pdf_filename: An efficient method for long-term room temperature storage of RNA.pdf
 source_collection: external
 tags: [RNA storage, room temperature, anhydrous, encapsulation, Arrhenius, long-term stability, RT-qPCR, Imagene]

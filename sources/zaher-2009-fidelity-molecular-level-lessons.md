@@ -4,7 +4,7 @@ authors: Hani S. Zaher, Rachel Green
 year: 2009
 doi: 10.1016/j.cell.2009.01.036
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Fidelity-at-the-Molecular-Level--Lessons-from-Prot.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Fidelity-at-the-Molecular-Level--Lessons-from-Prot.pdf
 pdf_filename: Fidelity-at-the-Molecular-Level--Lessons-from-Prot.pdf
 source_collection: external
 ---

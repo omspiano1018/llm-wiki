@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.02.001
 source: moore-2009-premrna-processing-reaches-back.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Pre-mRNA-Processing-Reaches-Back-toTranscription-a.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Pre-mRNA-Processing-Reaches-Back-toTranscription-a.pdf
 pdf_filename: Pre-mRNA-Processing-Reaches-Back-toTranscription-a.pdf
 source_collection: external
 tags: [pre-mRNA processing, transcription coupling, CTD, capping, splicing, polyadenylation, EJC, NMD, gene loop]

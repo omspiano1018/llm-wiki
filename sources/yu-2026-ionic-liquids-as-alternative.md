@@ -4,7 +4,7 @@ authors: Haitao Yu, Natalia Martinez, Qi Han, Mohamad El Mohamad, Brendan Dyett,
 year: 2026
 doi: 10.1098/rsta.2024.0310
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/yu-2026-ionic-liquids-as-alternative.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/yu-2026-ionic-liquids-as-alternative.pdf
 pdf_filename: yu-2026-ionic-liquids-as-alternative.pdf
 source_collection: external
 ---

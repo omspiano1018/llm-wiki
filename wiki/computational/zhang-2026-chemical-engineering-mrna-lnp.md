@@ -5,7 +5,7 @@ year: 2026
 doi: 10.1039/d5bm01635e
 source: zhang-2026-chemical-engineering-mrna-lnp.md
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Chemical engineering strategies to enhance mRNA-LNP stability for therapeutic applications.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Chemical engineering strategies to enhance mRNA-LNP stability for therapeutic applications.pdf
 pdf_filename: Chemical engineering strategies to enhance mRNA-LNP stability for therapeutic applications.pdf
 source_collection: external
 tags: [mRNA stability, LNP, chemical modification, codon optimization, circular RNA, saRNA, 5' cap, poly(A) tail, thermostable LNP, drug delivery]

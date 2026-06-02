@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.01.043
 source: waters-2009-regulatory-rnas-bacteria.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Regulatory-RNAs-in-Bacteria_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Regulatory-RNAs-in-Bacteria_cell.pdf
 pdf_filename: Regulatory-RNAs-in-Bacteria_cell.pdf
 source_collection: external
 tags: [bacterial sRNA, riboswitch, base-pairing, CRISPR, Hfq, CsrA, 6S RNA, gene regulation, RNA regulation]

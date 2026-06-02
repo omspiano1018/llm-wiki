@@ -5,7 +5,7 @@ year: 2014
 doi: 10.1073/pnas.1403995111
 source: zakrewsky-2014-ionic-liquids-as-a-class.md
 category: cell-biology
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/zakrewsky-2014-ionic-liquids-as-a-class.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/zakrewsky-2014-ionic-liquids-as-a-class.pdf
 pdf_filename: zakrewsky-2014-ionic-liquids-as-a-class.pdf
 source_collection: external
 tags: [CAGE, ionic-liquid, DES, geranic-acid, synthesis, transdermal, skin-penetration]

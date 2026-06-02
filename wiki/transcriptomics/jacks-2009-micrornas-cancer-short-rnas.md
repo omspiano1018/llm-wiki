@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.02.005
 source: jacks-2009-micrornas-cancer-short-rnas.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/MicroRNAs-and-Cancer--Short-RNAs-Go-a-Long-Way_cel.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/MicroRNAs-and-Cancer--Short-RNAs-Go-a-Long-Way_cel.pdf
 pdf_filename: MicroRNAs-and-Cancer--Short-RNAs-Go-a-Long-Way_cel.pdf
 source_collection: external
 tags: [miRNA, cancer, oncogene, tumor-suppressor, miR-155, miR-17-92, let-7, miR-34, p53]

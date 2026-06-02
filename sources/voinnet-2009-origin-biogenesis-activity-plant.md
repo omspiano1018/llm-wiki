@@ -4,7 +4,7 @@ authors: Olivier Voinnet
 year: 2009
 doi: 10.1016/j.cell.2009.01.046
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Origin,-Biogenesis,-and-Activity-of-Plant-MicroRNA.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Origin,-Biogenesis,-and-Activity-of-Plant-MicroRNA.pdf
 pdf_filename: Origin,-Biogenesis,-and-Activity-of-Plant-MicroRNA.pdf
 source_collection: external
 ---

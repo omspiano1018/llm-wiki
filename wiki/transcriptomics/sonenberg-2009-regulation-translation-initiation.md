@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.01.042
 source: sonenberg-2009-regulation-translation-initiation.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Regulation-of-Translation-Initiation-in-Eukaryotes.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Regulation-of-Translation-Initiation-in-Eukaryotes.pdf
 pdf_filename: Regulation-of-Translation-Initiation-in-Eukaryotes.pdf
 source_collection: external
 tags: [translation initiation, eIF, scanning, start codon selection, mTOR, ISR, IRES, miRNA, uORF, eIF2, eIF4F]

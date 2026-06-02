@@ -4,7 +4,7 @@ authors: Igor V. Kornienko, Olga Yu. Aramova, Anna A. Tishchenko, Dmitriy V. Rud
 year: 2024
 doi: 10.3390/molecules29245978
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/RNA stability A review of the Role of Structural Features and Environmental Conditions.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/RNA stability A review of the Role of Structural Features and Environmental Conditions.pdf
 pdf_filename: RNA stability A review of the Role of Structural Features and Environmental Conditions.pdf
 source_collection: external
 ---

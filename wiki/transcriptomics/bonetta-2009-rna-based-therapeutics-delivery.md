@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.02.010
 source: bonetta-2009-rna-based-therapeutics-delivery.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/RNA-Based-Therapeutics--Ready-for-Delivery-_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/RNA-Based-Therapeutics--Ready-for-Delivery-_cell.pdf
 pdf_filename: RNA-Based-Therapeutics--Ready-for-Delivery-_cell.pdf
 source_collection: external
 tags: [RNA therapeutics, siRNA, antisense, miRNA, drug delivery, clinical trials]

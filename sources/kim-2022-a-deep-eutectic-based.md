@@ -4,7 +4,7 @@ authors: Jayoung Kim, Yongsheng Gao, Zongmin Zhao, Danika Rodrigues, Eden E. L. 
 year: 2022
 doi: 10.1073/pnas.2110450119
 category: cell-biology
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/kim-2022-a-deep-eutectic-based.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/kim-2022-a-deep-eutectic-based.pdf
 pdf_filename: kim-2022-a-deep-eutectic-based.pdf
 source_collection: external
 ---

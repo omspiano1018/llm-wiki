@@ -4,7 +4,7 @@ authors: Markus C. Wahl, Cindy L. Will, Reinhard Lührmann
 year: 2009
 doi: 10.1016/j.cell.2009.02.009
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/The-Spliceosome--Design-Principles-of-a-Dynamic-RN.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/The-Spliceosome--Design-Principles-of-a-Dynamic-RN.pdf
 pdf_filename: The-Spliceosome--Design-Principles-of-a-Dynamic-RN.pdf
 source_collection: external
 ---

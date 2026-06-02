@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.02.002
 source: cech-2009-crawling-out-rna-world.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Crawling-Out-of-the-RNA-World_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Crawling-Out-of-the-RNA-World_cell.pdf
 pdf_filename: Crawling-Out-of-the-RNA-World_cell.pdf
 source_collection: external
 tags: [RNA-world, ribozyme, RNP, ribosome, spliceosome, evolution, catalysis, telomerase]

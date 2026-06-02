@@ -5,7 +5,7 @@ year: 2026
 doi: 10.1038/s41467-026-69402-3
 source: berleant-2026-enabling-global-scale-nucleic.md
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Enabling global-scale nucleic acid repositories through versatile, scalable biochemical selection from room-temperature archives.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Enabling global-scale nucleic acid repositories through versatile, scalable biochemical selection from room-temperature archives.pdf
 pdf_filename: Enabling global-scale nucleic acid repositories through versatile, scalable biochemical selection from room-temperature archives.pdf
 source_collection: external
 tags: [nucleic acid repository, room temperature storage, DNA barcode, silica encapsulation, biobank, SARS-CoV-2, database query, scalable retrieval, MIT]

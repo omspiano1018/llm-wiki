@@ -4,7 +4,7 @@ authors: Nahum Sonenberg, Alan G. Hinnebusch
 year: 2009
 doi: 10.1016/j.cell.2009.01.042
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Regulation-of-Translation-Initiation-in-Eukaryotes.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Regulation-of-Translation-Initiation-in-Eukaryotes.pdf
 pdf_filename: Regulation-of-Translation-Initiation-in-Eukaryotes.pdf
 source_collection: external
 ---

@@ -4,7 +4,7 @@ authors: Michael Zakrewsky, Karissa S. Lovell, Abhirup Mandal, Thomas E. Jones, 
 year: 2014
 doi: 10.1073/pnas.1403995111
 category: cell-biology
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/zakrewsky-2014-ionic-liquids-as-a-class.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/zakrewsky-2014-ionic-liquids-as-a-class.pdf
 pdf_filename: zakrewsky-2014-ionic-liquids-as-a-class.pdf
 source_collection: external
 note: Supporting Information for the original CAGE discovery paper (PNAS 111:13313–13318, 2014)

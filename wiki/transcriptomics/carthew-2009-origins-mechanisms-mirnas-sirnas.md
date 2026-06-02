@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.01.035
 source: carthew-2009-origins-mechanisms-mirnas-sirnas.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Origins-and-Mechanisms-of-miRNAs-and-siRNAs_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Origins-and-Mechanisms-of-miRNAs-and-siRNAs_cell.pdf
 pdf_filename: Origins-and-Mechanisms-of-miRNAs-and-siRNAs_cell.pdf
 source_collection: external
 tags: [miRNA, siRNA, Dicer, Argonaute, RISC, RNAi, RNA-silencing, biogenesis]

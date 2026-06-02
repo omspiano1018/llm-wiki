@@ -4,7 +4,7 @@ authors: Samir Mitragotri
 year: 2024
 doi: 10.1016/j.jconrel.2024.10.034
 category: cell-biology
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/mitragotri-2024-choline-geranate-cage-multifaceted.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/mitragotri-2024-choline-geranate-cage-multifaceted.pdf
 pdf_filename: mitragotri-2024-choline-geranate-cage-multifaceted.pdf
 source_collection: external
 ---

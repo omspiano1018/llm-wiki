@@ -4,7 +4,7 @@ authors: He Xian, Yue Zhang, Chengzhong Yu, Yue Wang
 year: 2023
 doi: 10.3390/pharmaceutics15020620
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Nanobiotechnology-Enabled mRNA stabilization.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Nanobiotechnology-Enabled mRNA stabilization.pdf
 pdf_filename: Nanobiotechnology-Enabled mRNA stabilization.pdf
 source_collection: external
 ---

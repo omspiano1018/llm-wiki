@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.01.045
 source: malone-2009-small-rnas-guardians-genome.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Small-RNAs-as-Guardians-of-the-Genome_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Small-RNAs-as-Guardians-of-the-Genome_cell.pdf
 pdf_filename: Small-RNAs-as-Guardians-of-the-Genome_cell.pdf
 source_collection: external
 tags: [piRNA, transposons, genome-defense, Piwi, ping-pong, germline, epigenetics]

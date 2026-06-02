@@ -4,7 +4,7 @@ authors: Marthe Colotte, Aurelie Luis, Jacques Bonnet, Delphine Coudy, Sophie Tu
 year: 2023
 doi: 10.1101/2023.08.28.555008
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Reference_materials_for_SARS-CoV-2_molecular_diagn.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Reference_materials_for_SARS-CoV-2_molecular_diagn.pdf
 pdf_filename: Reference_materials_for_SARS-CoV-2_molecular_diagn.pdf
 source_collection: external
 ---

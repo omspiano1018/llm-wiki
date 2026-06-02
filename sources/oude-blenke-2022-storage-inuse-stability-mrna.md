@@ -4,7 +4,7 @@ authors: Erik Oude Blenke, Eivor Ornskov, Christian Schoneich, Gunilla A. Nilsso
 year: 2022
 doi: 10.1016/j.xphs.2022.11.001
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/The storage and In-Use Stability of mRNA Vaccines and Therapeutics Not a Cold Case.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/The storage and In-Use Stability of mRNA Vaccines and Therapeutics Not a Cold Case.pdf
 pdf_filename: The storage and In-Use Stability of mRNA Vaccines and Therapeutics Not a Cold Case.pdf
 source_collection: external
 ---

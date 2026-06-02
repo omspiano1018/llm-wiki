@@ -4,7 +4,7 @@ authors: Megan Bergkessel, Gwendolyn M. Wilmes, Christine Guthrie
 year: 2009
 doi: 10.1016/j.cell.2009.01.047
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/SnapShot--Formation-of-mRNPs_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/SnapShot--Formation-of-mRNPs_cell.pdf
 pdf_filename: SnapShot--Formation-of-mRNPs_cell.pdf
 source_collection: external
 ---

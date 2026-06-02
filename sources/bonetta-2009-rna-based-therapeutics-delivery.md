@@ -4,7 +4,7 @@ authors: Laura Bonetta
 year: 2009
 doi: 10.1016/j.cell.2009.02.010
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/RNA-Based-Therapeutics--Ready-for-Delivery-_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/RNA-Based-Therapeutics--Ready-for-Delivery-_cell.pdf
 pdf_filename: RNA-Based-Therapeutics--Ready-for-Delivery-_cell.pdf
 source_collection: external
 ---

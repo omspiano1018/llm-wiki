@@ -4,7 +4,7 @@ authors: Joshua R. Greene, Kahla L. Merrett, Alexanndra J. Heyert, Lucas F. Simm
 year: 2019
 doi: 10.1371/journal.pone.0222211
 category: cell-biology
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/greene-2019-scope-and-efficacy-of.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/greene-2019-scope-and-efficacy-of.pdf
 pdf_filename: greene-2019-scope-and-efficacy-of.pdf
 source_collection: external
 ---

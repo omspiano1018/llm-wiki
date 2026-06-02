@@ -5,7 +5,7 @@ year: 2023
 doi: 10.1101/2023.08.28.555008
 source: colotte-2023-reference-materials-sars-cov-2.md
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Reference_materials_for_SARS-CoV-2_molecular_diagn.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Reference_materials_for_SARS-CoV-2_molecular_diagn.pdf
 pdf_filename: Reference_materials_for_SARS-CoV-2_molecular_diagn.pdf
 source_collection: external
 tags: [RNA storage, room temperature, encapsulation, SARS-CoV-2, RT-PCR, RT-LAMP, reference materials, diagnostics, RNAshells]

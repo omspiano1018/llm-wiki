@@ -5,7 +5,7 @@ year: 2026
 doi: 10.1186/s41120-026-00146-6
 source: zhen-2026-drying-technologies-messenger-rna.md
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Drying technologies for messenger RNA and other nucleic acid-lipid nanoparticles advances in freeze-drying and beyond.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Drying technologies for messenger RNA and other nucleic acid-lipid nanoparticles advances in freeze-drying and beyond.pdf
 pdf_filename: Drying technologies for messenger RNA and other nucleic acid-lipid nanoparticles advances in freeze-drying and beyond.pdf
 source_collection: external
 tags: [mRNA, LNP, lyophilization, spray drying, nucleic acid therapeutics, siRNA, saRNA, circRNA, CRISPR, drying technology, cold chain]

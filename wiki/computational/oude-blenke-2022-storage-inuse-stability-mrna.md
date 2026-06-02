@@ -5,7 +5,7 @@ year: 2022
 doi: 10.1016/j.xphs.2022.11.001
 source: oude-blenke-2022-storage-inuse-stability-mrna.md
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/The storage and In-Use Stability of mRNA Vaccines and Therapeutics Not a Cold Case.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/The storage and In-Use Stability of mRNA Vaccines and Therapeutics Not a Cold Case.pdf
 pdf_filename: The storage and In-Use Stability of mRNA Vaccines and Therapeutics Not a Cold Case.pdf
 source_collection: external
 tags: [mRNA stability, LNP, drug product, freeze-drying, COVID-19 vaccine, ionizable lipid, formulation, pharmaceutical]

@@ -4,7 +4,7 @@ authors: Zixuan Zhen, Mittal Darji, Xinhao Lin, Robin H. Bogner, Xiuling Lu
 year: 2026
 doi: 10.1186/s41120-026-00146-6
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Drying technologies for messenger RNA and other nucleic acid-lipid nanoparticles advances in freeze-drying and beyond.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Drying technologies for messenger RNA and other nucleic acid-lipid nanoparticles advances in freeze-drying and beyond.pdf
 pdf_filename: Drying technologies for messenger RNA and other nucleic acid-lipid nanoparticles advances in freeze-drying and beyond.pdf
 source_collection: external
 ---

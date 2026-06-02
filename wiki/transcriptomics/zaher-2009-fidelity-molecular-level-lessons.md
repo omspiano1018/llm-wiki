@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.01.036
 source: zaher-2009-fidelity-molecular-level-lessons.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Fidelity-at-the-Molecular-Level--Lessons-from-Prot.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Fidelity-at-the-Molecular-Level--Lessons-from-Prot.pdf
 pdf_filename: Fidelity-at-the-Molecular-Level--Lessons-from-Prot.pdf
 source_collection: external
 tags: [translation, ribosome, fidelity, tRNA, kinetic-proofreading, EF-Tu, release-factors]

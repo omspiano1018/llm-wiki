@@ -4,7 +4,7 @@ authors: MD Faizul Hussain Khan, Floriane Baudin, Ayyappasamy Sudalaiyadum Perum
 year: 2025
 doi: 10.3390/vaccines13080853
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Freeze-Drying of mRNA-LNPs Vaccines A Review.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Freeze-Drying of mRNA-LNPs Vaccines A Review.pdf
 pdf_filename: Freeze-Drying of mRNA-LNPs Vaccines A Review.pdf
 source_collection: external
 ---

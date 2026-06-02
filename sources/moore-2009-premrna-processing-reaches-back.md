@@ -4,7 +4,7 @@ authors: Melissa J. Moore, Nick J. Proudfoot
 year: 2009
 doi: 10.1016/j.cell.2009.02.001
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Pre-mRNA-Processing-Reaches-Back-toTranscription-a.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Pre-mRNA-Processing-Reaches-Back-toTranscription-a.pdf
 pdf_filename: Pre-mRNA-Processing-Reaches-Back-toTranscription-a.pdf
 source_collection: external
 ---

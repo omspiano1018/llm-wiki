@@ -5,7 +5,7 @@ year: 2014
 doi: 10.1016/j.clinbiochem.2013.12.011
 source: lou-2014-review-room-temperature-storage.md
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/A review of room temperature storage of biospecimen tissue and nucleic acids for anatomic pathology laboratories and biorepositories.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/A review of room temperature storage of biospecimen tissue and nucleic acids for anatomic pathology laboratories and biorepositories.pdf
 pdf_filename: A review of room temperature storage of biospecimen tissue and nucleic acids for anatomic pathology laboratories and biorepositories.pdf
 source_collection: external
 tags: [biospecimen storage, room temperature, FFPE, FTA card, lyophilization, RNA storage, DNA storage, biorepository, biobank]

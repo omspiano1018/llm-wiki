@@ -4,7 +4,7 @@ authors: Phillip A. Sharp
 year: 2009
 doi: 10.1016/j.cell.2009.02.007
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/The-Centrality-of-RNA_cell.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/The-Centrality-of-RNA_cell.pdf
 pdf_filename: The-Centrality-of-RNA_cell.pdf
 source_collection: external
 ---

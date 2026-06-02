@@ -4,7 +4,7 @@ authors: Ze Zhang, Yen Hui Ong, Bowei Yang, Bangda Fan, Yi Yan Yang, Qianqian Ni
 year: 2026
 doi: 10.1039/d5bm01635e
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Chemical engineering strategies to enhance mRNA-LNP stability for therapeutic applications.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Chemical engineering strategies to enhance mRNA-LNP stability for therapeutic applications.pdf
 pdf_filename: Chemical engineering strategies to enhance mRNA-LNP stability for therapeutic applications.pdf
 source_collection: external
 ---

@@ -4,7 +4,7 @@ authors: Jerry J. Lou, Leili Mirsadraei, Desiree E. Sanchez, Ryan W. Wilson, Mar
 year: 2014
 doi: 10.1016/j.clinbiochem.2013.12.011
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/A review of room temperature storage of biospecimen tissue and nucleic acids for anatomic pathology laboratories and biorepositories.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/A review of room temperature storage of biospecimen tissue and nucleic acids for anatomic pathology laboratories and biorepositories.pdf
 pdf_filename: A review of room temperature storage of biospecimen tissue and nucleic acids for anatomic pathology laboratories and biorepositories.pdf
 source_collection: external
 ---

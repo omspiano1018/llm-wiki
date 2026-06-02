@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1016/j.cell.2009.01.044
 source: martin-2009-mrna-localization-gene-expression.md
 category: transcriptomics
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/mRNA-Localization--Gene-Expression-in-the-Spatial-.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/mRNA-Localization--Gene-Expression-in-the-Spatial-.pdf
 pdf_filename: mRNA-Localization--Gene-Expression-in-the-Spatial-.pdf
 source_collection: external
 tags: [mRNA-localization, RNA-binding-proteins, transport-granules, local-translation, neurons, Drosophila, zipcode]

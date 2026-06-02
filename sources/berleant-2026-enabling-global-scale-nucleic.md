@@ -4,7 +4,7 @@ authors: Joseph D. Berleant, James L. Banal, Dhriti K. Rao, Mark Bathe
 year: 2026
 doi: 10.1038/s41467-026-69402-3
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Enabling global-scale nucleic acid repositories through versatile, scalable biochemical selection from room-temperature archives.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/Enabling global-scale nucleic acid repositories through versatile, scalable biochemical selection from room-temperature archives.pdf
 pdf_filename: Enabling global-scale nucleic acid repositories through versatile, scalable biochemical selection from room-temperature archives.pdf
 source_collection: external
 ---

@@ -4,7 +4,7 @@ authors: Augusto Q. Pedro, Patrícia Pereira, Maria J. Quental, André P. Carval
 year: 2018
 doi: 10.1021/acssuschemeng.8b03900
 category: computational
-pdf_path: C:/Users/User/Desktop/llm-wiki/papers/pedro-2018-cholinium-based-goods-buffers.pdf
+pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/pedro-2018-cholinium-based-goods-buffers.pdf
 pdf_filename: pedro-2018-cholinium-based-goods-buffers.pdf
 source_collection: external
 ---
