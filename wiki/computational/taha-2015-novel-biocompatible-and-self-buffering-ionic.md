@@ -5,8 +5,8 @@ year: 2015
 doi: 10.1002/chem.201405693
 source: taha-2015-novel-biocompatible-and-self-buffering-ionic.md
 category: computational
-pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/taha-2015-novel-biocompatible-and-self-buffering-ionic.pdf
-pdf_filename: taha-2015-novel-biocompatible-and-self-buffering-ionic.pdf
+pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Novel biocompatible and self-buffering ionic liquids for biopharmaceutical applications.pdf
+pdf_filename: Novel biocompatible and self-buffering ionic liquids for biopharmaceutical applications.pdf
 source_collection: external
 tags: [ionic-liquid, Good's-buffers, cholinium, self-buffering, aqueous-biphasic-system, ABS, IgY, protein-purification, biocompatibility, COSMO-RS]
 ---

@@ -5,8 +5,8 @@ year: 2026
 doi: 10.1093/chemle/upag025
 source: tanaka-2026-lipid-based-ionic-liquids-enable.md
 category: computational
-pdf_path: C:/Users/painteroh/Desktop/llm-wiki/papers/tanaka-2026-lipid-based-ionic-liquids-enable.pdf
-pdf_filename: tanaka-2026-lipid-based-ionic-liquids-enable.pdf
+pdf_path: C:/Users/User/Desktop/llm-wiki/papers/Lipid-based ionic liquids enable efficient messenger RNA intracellular delivery.pdf
+pdf_filename: Lipid-based ionic liquids enable efficient messenger RNA intracellular delivery.pdf
 source_collection: external
 tags: [ionic-liquid, lipid-based-ionic-liquid, mRNA-delivery, transfection, cationic-phospholipid, LBIL, RNA-DDS]
 ---
