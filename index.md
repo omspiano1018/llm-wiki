@@ -49,6 +49,7 @@ Format: `- [[category/stem]] — one-line description (year)`
 - [[cell-biology/greene-2019-scope-and-efficacy-of]] — CAGE eradicates ESKAPE biofilms at 3.56 mM in 2 h; >3 log10 S. aureus reduction in 15 min (2019)
 - [[cell-biology/ko-2020-clinical-translation-of-choline]] — First clinical translation of CAGE: Phase 1b rosacea study (n=26) shows marked lesion reduction (2020)
 - [[cell-biology/kim-2022-a-deep-eutectic-based]] — SEAPORT CAGE depot extends apomorphine from 3×/day to 3×/week in pig PK model (2022)
+- [[cell-biology/lee-2026-ionic-liquid-enabled-drug-delivery-systems]] — Framework-driven review of IL-enabled DDS organized by platform (nanocarrier/microneedle/biomacromolecule); ILs as formulation-enabling (not standalone) materials; membrane interaction drives both delivery and toxicity; excludes DESs (2026)
 
 ## computational
 <!-- algorithms, bioinformatics tools, statistical methods, ML for biology -->
@@ -61,6 +62,9 @@ Format: `- [[category/stem]] — one-line description (year)`
 - [[computational/borrajo-2024-ionizable-nanoemulsions-for-rna-delivery]] — Ionizable nanoemulsions (iNEs): C12–200 + DOPE + Vitamin E core + DMG-PEG; soft fluid core gives sub-100 nm carriers that diffuse ~3.4 mm in rat brain (vs 1–2.7 mm for LNPs) and selectively transfect neurons; carries both siRNA and mRNA (2024)
 - [[computational/ona-2026-one-component-ionizable-amphiphilic-janus]] — One-component ionizable amphiphilic Janus dendrimers (IAJD97): self-assemble with mRNA into dendrimersomes; spleen/lymph-node-targeted, stable +4°C ≥26 weeks (DV200 ~94% vs 28% for SM102 LNP); PEG/cholesterol-free; norovirus mRNA vaccine matches SM102 LNP immunogenicity (2026)
 - [[computational/verissimo-2026-ionic-liquids-deep-eutectic]] — Critical perspective on ILs and DESs as stabilization/delivery platforms for siRNA, mRNA, and ASO biopharmaceuticals; SWOT analysis; nucleic acid therapeutics market USD 6.94B (2026)
+- [[computational/egorova-2021-ionic-liquids-prospects-for-nucleic]] — Foundational NAR review of ILs for nucleic-acid handling and delivery; Table 6 catalogs all IL gene-delivery studies (CAGE/CAPA siRNA in vivo, imidazolium-DOPE siRNA ~70nm +zeta, IL-robed oligonucleotides); cationic head + lipophilic tail + chain-length SAR (2021)
+- [[computational/mirhadi-2024-utilizing-ionic-liquids-as-eco]] — Delivery-focused review of ILs as biocompatible carriers for nucleic acids (DNA/siRNA/mRNA/miRNA/ASO); ILs as solubilizers/uptake-enhancers and as nano-vector components (liposomes, NPs) raising transfection (2024)
+- [[computational/sagitha-2023-choline-ester-based-ionic-liquid]] — Multi-functional propionyl-choline IL binds/stabilizes DNA + protects from nuclease + boosts doxorubicin uptake; citric acid added to keep IL-DNA complex +zeta (stable) at physiological pH (2023)
 - [[computational/lou-2014-review-room-temperature-storage]] — Review comparing room-temperature biospecimen storage (FFPE, FTA cards, chemical matrices, lyophilization, formalin-free fixatives) for anatomic pathology labs (2014)
 - [[computational/xian-2023-nanobiotechnology-enabled-mrna]] — Review of nanobiotechnology strategies (chemical modifications, nanostructures, LNP encapsulation) for mRNA stabilization and shelf-life extension (2023)
 - [[computational/oude-blenke-2022-storage-inuse-stability-mrna]] — Deep review of mRNA-LNP storage and in-use stability; degradation chemistry, LNP double-edged sword, mRNA-lipid adducts, analytical toolbox (2022)
