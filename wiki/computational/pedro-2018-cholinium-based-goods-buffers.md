@@ -37,6 +37,14 @@ MD 시뮬레이션용 별도 모델: 20mer ssRNA (AGCGAACGCAUCUCGAGUUC)
 
 **Characterization**: CD spectroscopy (structure), Tm via UV melting, gel electrophoresis, zeta potential, MTT cytotoxicity assay, molecular dynamics simulations.
 
+**RNA amounts used per assay** (paper reports concentration/loading, not a total mass):
+| Assay | RNA conc. / loading | Source |
+|---|---|---|
+| CD + Tm (UV melting) | 150 µg/mL (1 mm quartz cell) | Main text |
+| Stability (1 h / 15 d / 30 d at 25 °C & 4 °C) | 150 µg/mL | Main text |
+| Zeta potential (DLS) | 200 µg/mL (1 h, 4 °C; n=3) | Main text |
+| Agarose gel electrophoresis | 48 µg / lane (20 µL, 0.8% gel) | Supporting Information |
+
 **Key mechanistic finding**: MD simulations show the number of cholinium cations surrounding RNA is similar across ILs, but GB anion identity controls the charge distribution in the first solvation sphere — this anion-dependent modulation of electrostatic environment is responsible for differential stabilization.
 
 ## Results

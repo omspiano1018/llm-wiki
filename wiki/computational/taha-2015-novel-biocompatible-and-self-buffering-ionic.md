@@ -44,7 +44,25 @@ Taha et al. (2015) introduce **cholinium-based Good's buffer ionic liquids (GB-I
 | IgY extraction efficiency | **79–94% single step** (water-soluble protein fraction) |
 | Partitioning driver | Hydrogen-bonding + van der Waals interactions |
 
+### Supplementary-information detail (SI)
+Quantitative data underpinning the summary above, from the SI (`SI_Taha_2015.pdf`):
+
+**Physical state / characterization (Table S5)** — confirmed by ¹H/¹³C NMR (D₂O/TSP):
+- [Ch][Tricine] mp 68 °C · [Ch][CHES] mp 72 °C · [Ch][MES] mp 87 °C · [Ch][HEPES] mp 103 °C · [Ch][TES] viscous liquid at room temperature.
+
+**PPG 400 ABS — per-IL protein extraction (Table S4)** — partition coefficient *K* and extraction efficiency to the IL-rich phase, which set the "79–94%" range:
+
+| GB-IL | K (total protein) | EE% |
+|-------|------|-----|
+| [Ch][Tricine] | 19.1 | **93.5** |
+| [Ch][HEPES] | 14.5 | **93.0** |
+| [Ch][TES] | 4.9 | **81.9** |
+| [Ch][MES] | 4.0 | **78.9** |
+
+**Binodal correlation (Tables S1–S3)** — phase boundaries fitted with `[PPG] = A·exp[(B[IL]^0.5) − (C[IL]^3)]` (R² ≈ 0.994–0.998); tie-lines (TLs) and tie-line lengths (TLLs) tabulated for each [Ch][GB] + PPG 400 system. More hydrophilic anions (Tricine, HEPES) give higher partition coefficients / extraction than MES, TES.
+
 ## Related Papers
+- [[computational/taha-2014-goods-buffers-as-a-basis]] — **precursor**: the originating GB-IL paper from the same group, using imidazolium/tetraalkylammonium cations (this 2015 work swaps in biocompatible cholinium + a polymer ABS)
 - [[computational/pedro-2018-cholinium-based-goods-buffers]] — same group extends these cholinium GB-ILs from protein (IgY) extraction to recombinant small-RNA stabilization (+14 °C Tm, 30-day RT stability)
 - [[computational/verissimo-2026-ionic-liquids-deep-eutectic]] — broader perspective situating cholinium/biocompatible ILs among nucleic-acid biopharmaceutical stabilization platforms
 - [[computational/yu-2026-ionic-liquids-as-alternative]] — choline–amino-acid ILs applied to LNP-mediated mRNA delivery

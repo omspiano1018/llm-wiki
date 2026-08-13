@@ -52,11 +52,27 @@ RNA's **2′-OH performs an in-line nucleophilic attack on the adjacent 3′-pho
 
 ### ⚠️ The critical caveat: pH and IL choice can *accelerate* hydrolysis
 The papers contain their own counter-examples proving water/pH hydrolysis is real:
-- **RNA hydrolyzes fastest at pH < 5 (and under alkaline conditions)** (pedro-2018).
-- **Unbuffered choline dihydrogen phosphate is strongly acidic (pH < 4)** → it *promotes* hydrolysis and destabilizes the structure (Tm −11.5 °C). It had to be **neutralized to pH 7 with choline hydroxide** to become protective (pedro-2018; de-silva-2026).
+- **Acidic media drive hydrolysis: RNA hydrolyzes at room temperature at pH < 5** (pedro-2018).
+- **Unbuffered choline dihydrogen phosphate is strongly acidic (pH 3.5–4.2)** → it *promotes* hydrolysis and destabilizes the structure (Tm −11.5 °C). It had to be **neutralized to pH 7 with choline hydroxide** to become protective (pedro-2018; de-silva-2026).
 - **Choline formate destabilized plant RNA** (Tm drop, collapsed RIN) — the wrong anion makes the same aqueous environment worse (de-silva-2026).
 
-Therefore protection requires an IL that is **near-neutral / self-buffering and structure-reinforcing** (choline glutamate; cholinium Good's-buffer ILs such as [Ch][MES]/[Ch][TES]/[Ch][HEPES]/[Ch][Tricine]).
+### The GB-ILs are alkaline, not neutral — and that is fine *in these IL systems*
+The protective cholinium Good's-buffer ILs are **alkaline**, not near-neutral (pedro-2018, Table S1, 25 °C):
+
+| Ionic Liquid | 20% (w/w) | 50% (w/w) |
+|---|---|---|
+| [Ch][MES] | 11.29 | 12.38 |
+| [Ch][Tricine] | 9.76 | 10.13 |
+| [Ch][HEPES] | 9.26 | 9.53 |
+| [Ch][TES] | 8.62 | 8.92 |
+| Buffered [Ch][DHP] | 7.00 | 7.10 |
+| Non-buffered [Ch][DHP] | 3.54 | 4.17 |
+
+pedro-2018 concludes "alkaline solutions are beneficial" and stability "is enhanced at neutral to alkaline pH."
+
+**This sits in tension with general RNA chemistry**, where alkaline pH (e.g. 8.0) *accelerates* 2′-OH-mediated hydrolysis by raising hydroxide availability ([[computational/kornienko-2024-rna-stability-review-structural]]; de-silva-2026, Introduction). The reconciliation is that a GB-IL is **not "alkaline water"** — it is a high-ion (20–50%), low-free-water environment whose protective factors (ion atmosphere, reduced water activity, +14 °C Tm structural reinforcement, RNase inactivation) dominate over base catalysis, and whose **self-buffering** holds pH steady. Within the conditions actually tested (≤30 days, 4–25 °C), this combination kept RNA intact; the result is **empirical** — pedro-2018 compared self-buffering alkaline ILs against acidic [Ch][DHP], not a controlled alkaline-vs-neutral hydrolysis series. So "alkaline is fine" holds **for these specific self-buffering ILs and timeframes**, not as a blanket claim that high pH is good for naked RNA in water.
+
+Therefore protection requires an IL that is **self-buffering (alkaline–neutral, not acidic) and structure-reinforcing** (choline glutamate; cholinium Good's-buffer ILs such as [Ch][MES]/[Ch][TES]/[Ch][HEPES]/[Ch][Tricine]).
 
 ---
 
@@ -71,3 +87,4 @@ Therefore protection requires an IL that is **near-neutral / self-buffering and 
 - [[computational/alfuhaid-2025-nades-biocompatible-media-thermally]] — choline-chloride NADES variant; low water activity / H-bond network rationale
 - [[computational/kornienko-2024-rna-stability-review-structural]] — general review of structural/environmental determinants of RNA stability (2′-OH hydrolysis, pH, oxidation)
 - [[computational/verissimo-2026-ionic-liquids-deep-eutectic]] — broader IL/DES stabilization perspective for nucleic-acid biopharmaceuticals
+- [[computational/dinh-2025-room-temperature-preservation-of-mrna]] — **non-aqueous counterpoint**: a hydrophobic DES that protects mRNA by *excluding* water and RNase via phase partitioning, rather than managing water in an aqueous IL; ≥227-day room-temperature mRNA preservation

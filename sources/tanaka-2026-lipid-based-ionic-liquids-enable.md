@@ -31,7 +31,7 @@ Cationic phospholipids (DMPC, DPPC, DSPC) are ethylated and paired with a linole
 ### LBIL synthesis (two-step, per ref. 17)
 1. **Ethylation**: phospholipid (DMPC / DPPC / DSPC) + ethyl trifluoromethanesulfonate (1:1 mol), 45 °C, 12 h under N₂ → ethylated phospholipid triflate.
 2. Dissolve in chloroform; add 0.2 N HCl with shaking → **chloride form**; centrifuge, discard HCl phase (removes triflate byproduct), water-wash; lyophilize.
-3. **Anion exchange**: ethylated phospholipid chloride + sodium linoleate (equimolar) in chloroform, 45 °C, ~12 h under N₂, light-protected; freeze-dry → IL-type lipid.
+3. **Anion exchange**: ethylated phospholipid chloride + linoleic acid (free fatty acid, equimolar) in chloroform, 45 °C, ~12 h under N₂, light-protected; freeze-dry → IL-type lipid. The reaction is an acid–base metathesis (EDMPC-Cl + H-Lin ⇌ EDMPC-Lin + HCl↑); the volatile HCl escapes during lyophilization, driving the exchange and removing Cl⁻. (Tanaka's text says only "linoleate" and cites ref. 17; the founding method uddin-2020 makes the free-acid route explicit — Cl⁻ removal confirmed by AgNO₃. Sodium linoleate would leave non-volatile NaCl, incompatible with that mechanism.)
 4. Validated by ¹H NMR (Supplementary Fig. S1); stored in ethanol at 10 mg/mL, −80 °C.
 - Products: **[EDMPC][Lin]**, **[EDPPC][Lin]**, **[EDSPC][Lin]** (E = ethylated; cation from DMPC/DPPC/DSPC; Lin = linoleate).
 

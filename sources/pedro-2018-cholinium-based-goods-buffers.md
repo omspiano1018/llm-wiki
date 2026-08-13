@@ -44,6 +44,20 @@ Neutralization of cholinium hydroxide with Good's buffer acids:
 
 Concentrations tested: **20% and 50% (w/w)** in aqueous solution.
 
+### Measured pH of the IL solutions (Table S1, 25 °C)
+All GB-ILs are **alkaline** (not neutral); only buffered [Ch][DHP] is neutral.
+
+| Ionic Liquid | 20% (w/w) | 50% (w/w) |
+|---|---|---|
+| [Ch][MES] | 11.29 | 12.38 |
+| [Ch][Tricine] | 9.76 | 10.13 |
+| [Ch][HEPES] | 9.26 | 9.53 |
+| [Ch][TES] | 8.62 | 8.92 |
+| Non-buffered [Ch][DHP] | 3.54 | 4.17 |
+| Buffered [Ch][DHP] | 7.00 | 7.10 |
+
+The paper states GB-IL solutions span **pH 8.62–12.38** and concludes that "alkaline solutions are beneficial to maintain RNA integrity" and that stability "is enhanced at neutral to alkaline pH values." Only the **acidic** non-buffered [Ch][DHP] (pH < 4.2) impaired RNA; neutralizing it to pH 7 restored protection.
+
 ### Characterization methods
 - **CD spectroscopy**: RNA secondary structure stability
 - **Tm (melting temperature)**: UV melting curves
@@ -51,6 +65,20 @@ Concentrations tested: **20% and 50% (w/w)** in aqueous solution.
 - **Zeta potential**: surface charge of RNA–IL complexes
 - **MTT assay**: cytotoxicity in human cell lines
 - **MD simulations**: ion distribution around RNA chain
+
+### RNA amounts used per assay (verbatim from paper / SI)
+The paper does not report a total RNA mass; it specifies RNA **concentration / loading** per assay:
+
+| Assay | RNA concentration / loading | Conditions | Location |
+|---|---|---|---|
+| CD spectroscopy + Tm (UV melting) | **150 µg/mL** | 1 mm quartz cell; also used for stability incubations | Main text, Methods (Tm) |
+| Stability study | **150 µg/mL** | incubation periods 1 h / 15 d / 30 d at 25 °C and 4 °C | Main text, Methods (Tm) |
+| Zeta potential (DLS) | **200 µg/mL** | incubated 1 h at 4 °C; mean of 3 independent samples | Main text, Methods (Zeta potential) |
+| Agarose gel electrophoresis | **48 µg / lane** (20 µL load) | 0.8% agarose | Supporting Information (Electrophoretic analysis) |
+
+> "Total RNA concentration was 150 µg/mL, and distinct incubation periods and temperatures of sRNA with ILs were performed." (Tm method)
+> "...the total RNA concentration was 200 µg/mL." (Zeta potential method)
+> "20 µL of sRNA corresponding to 48 µg was analyzed by horizontal electrophoresis using 0.8% of agarose gel." (SI)
 
 ### Recyclability protocol
 RNA precipitated from IL solution → IL recovered → filtered → reused for next stabilization cycle.

@@ -57,6 +57,12 @@ Neutralization reaction pairing the cholinium cation with five Good's buffer ani
 - **IgY extraction efficiency**: **79–94% in a single step** for the water-soluble protein fraction.
 - **Partitioning mechanism**: hydrogen-bonding and van der Waals interactions drive IgY into the GB-IL-rich phase.
 
+### Supplementary information (SI) data — `SI_Taha_2015.pdf`
+- **Physical state / characterization (Table S5, ¹H/¹³C NMR in D₂O/TSP)**: [Ch][Tricine] mp 68 °C; [Ch][CHES] mp 72 °C; [Ch][MES] mp 87 °C; [Ch][HEPES] mp 103 °C; [Ch][TES] viscous liquid at room temperature.
+- **Per-IL extraction (Table S4)** — partition coefficient *K* (total protein) and extraction efficiency EE% to the IL-rich phase: [Ch][Tricine] K = 19.1, EE = 93.5%; [Ch][HEPES] K = 14.5, EE = 93.0%; [Ch][TES] K = 4.9, EE = 81.9%; [Ch][MES] K = 4.0, EE = 78.9% → these four values set the quoted **78.9–93.5% ("79–94%")** range.
+- **Binodal data (Tables S1–S3)**: ternary weight-fraction data for PPG 400 (1) + [Ch][GB] (2) + H₂O (3) at 25 °C; fitted with `[PPG] = A·exp[(B[IL]^0.5) − (C[IL]^3)]` (R² ≈ 0.994–0.998; e.g. [Ch][Tricine] A = 180.5, B = −0.52; [Ch][HEPES] A = 187.2, B = −0.54; [Ch][MES] A = 169.2, B = −0.42; [Ch][TES] A = 175.2, B = −0.47). Tie-lines (TLs) and tie-line lengths (TLLs) tabulated per system.
+- **Figures**: S1 = synthetic pathway for [Ch][GBs] via [Choline][OH] neutralization; S2 = pH titration curves of GB vs [Ch][GB] pairs confirming retained buffering.
+
 ## 5. Limitations and Future Work
 - Demonstrates extraction/concentration but acknowledges "attempted purification" — full purity/recovery of isolated IgY not yet optimized.
 - Only one polymer (PPG 400) explored as the ABS partner.
@@ -64,8 +70,9 @@ Neutralization reaction pairing the cholinium cation with five Good's buffer ani
 - Protein-focused application; RNA/nucleic-acid stabilization not addressed here (later extended by the same group).
 
 ## 6. Related Work
+- **Direct precursor**: Taha et al. 2014 (*Green Chem.*) — the originating GB-IL paper using imidazolium/tetraalkylammonium cations and salt-based ABS; this 2015 work swaps in the biocompatible cholinium cation and a biodegradable polymer (→ [[computational/taha-2014-goods-buffers-as-a-basis]]).
 - **Precursor to the RNA-stabilization line of this group**: Pedro et al. 2018 apply the same cholinium GB-IL concept to recombinant small-RNA preservation (→ [[computational/pedro-2018-cholinium-based-goods-buffers]]).
-- Tetraalkylammonium Good's buffer ILs (earlier, salt-based ABS) — the work this paper improves upon for biocompatibility.
+- Tetraalkylammonium Good's buffer ILs (earlier, salt-based ABS) — the work this paper improves upon for biocompatibility ([[computational/taha-2014-goods-buffers-as-a-basis]]).
 - Cholinium chloride established as a biodegradable, low-toxicity, nutrient-derived cation for "greener" ILs.
 - Broader cholinium / amino-acid IL stabilization landscape (→ [[computational/verissimo-2026-ionic-liquids-deep-eutectic]]).
 

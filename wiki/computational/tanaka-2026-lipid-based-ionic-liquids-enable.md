@@ -23,7 +23,7 @@ This is the wiki's clearest example of *"converting a lipid into an ionic liquid
 - Identifies **[EDMPC][Lin]** as the lead: +36.6 mV, single-population particles, full mRNA retention on gel, highest gene expression.
 
 ## Methodology and Architecture
-- **Synthesis (2 steps)**: (1) ethylate phospholipid with ethyl triflate (1:1, 45 °C, 12 h, N₂) → quaternized cationic lipid, converted to chloride form; (2) anion exchange with sodium linoleate (equimolar, chloroform, 45 °C overnight) → IL-type lipid; lyophilize; **¹H-NMR in DMSO-d₆ (400 MHz)** confirmed (SI Fig. S1).
+- **Synthesis (2 steps)**: (1) ethylate phospholipid with ethyl triflate (1:1, 45 °C, 12 h, N₂) → quaternized cationic lipid, converted to chloride form; (2) anion exchange with linoleic acid (free fatty acid, equimolar, chloroform, 45 °C overnight) → IL-type lipid; lyophilize (volatile HCl byproduct escapes, driving the exchange and removing Cl⁻); **¹H-NMR in DMSO-d₆ (400 MHz)** confirmed (SI Fig. S1). Tanaka's text writes only "linoleate" and cites ref. 17; the free-acid route is per the founding method [[computational/uddin-2020-lipid-based-biocompatible-ionic-liquids]].
 - **mRNA**: NanoLuc mRNA made in-house by **IVT** (Takara IVTpro™ T7 kit, **modified NTPs**), LiCl-precipitated and purified (SI).
 - **Complexation**: LBIL (ethanol) + NanoLuc mRNA (water) at **N/P = 10:1**, RT 5 min.
 - **Characterization**: DLS (size, incl. LBILs alone — SI Fig. S2: EDSPC–Lin aggregates while EDMPC/EDPPC–Lin stay submicron), zeta potential (n = 5), agarose gel electrophoresis (binding/retardation).
@@ -41,6 +41,7 @@ This is the wiki's clearest example of *"converting a lipid into an ionic liquid
 - **In vitro only**; no in vivo data or cytotoxicity reported; single reporter and single anion (linoleate).
 
 ## Related Papers
+- [[computational/uddin-2020-lipid-based-biocompatible-ionic-liquids]] — **founding LBIL synthesis paper** from the same group; introduces the EDMPC + C18-fatty-acid chemistry (incl. linoleate) and gives the full quantitative synthesis/purification this Letter only references. The direct ancestor of this work.
 - [[computational/yu-2026-ionic-liquids-as-alternative]] — also IL-for-mRNA-delivery, but the IL is an LNP stabilizer (PEG replacement), not the cationic lipid; contrast in molecular role.
 - [[computational/verissimo-2026-ionic-liquids-deep-eutectic]] — review framing surface-active ILs / API-ILs as combined protection + delivery agents for nucleic acids; LBILs are an instance of this concept.
 - [[cell-biology/mitragotri-2024-choline-geranate-cage-multifaceted]] — CAGE IL for transdermal small-molecule/siRNA delivery; different IL chemistry and route.
